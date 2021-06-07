@@ -8,3 +8,7 @@ Update made on master GitHub before rebase
 ## Repository changes
 
 Merge some changes
+
+## Floating tag
+
+Changes
