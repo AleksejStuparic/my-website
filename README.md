@@ -12,3 +12,7 @@ Merge some changes
 ## Floating tag
 
 Changes
+
+## Getting Started
+
+placeholder text
