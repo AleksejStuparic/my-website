@@ -2,6 +2,4 @@
 
 This is really awesome website
 
-Edit in update-readme
-
-Local update
+Update made on master GitHub before rebase
